@@ -20,9 +20,7 @@
 #
 #             - build/
 
-IDF_PATH := /opt/esp-idf
-
-PROJECT_NAME := esp32-max30100
+PROJECT_NAME := esp32-max30100-example
 
 # EXTRA_COMPONENT_DIRS := Optional list of additional directories to search for components.
 
